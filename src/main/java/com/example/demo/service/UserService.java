@@ -5,6 +5,13 @@ public class UserService {
         System.out.println("User Service");
     }
 
+    void createUser(){
+        System.out.println("UserCreated");
+    }
+
+    // adawda
+
+
     /*
     * Writing simple doc
     * */
